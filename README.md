@@ -1,14 +1,21 @@
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pashkov256/media/refs/heads/main/terma/terma_banner_v1.png" alt="Project Banner" />
+</p>
 
-<a href="https://code2tutorial.com/tutorial/your-tutorial-link"><b>Terma</b></a> is a handy terminal weather app that combines a modern TUI. Instantly check the weather, view multi-day forecasts, save your favorite locations, and customize the interface — all from your terminal.
-<br/>
-<br/>
 <p align="center">
   <a><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT"></a>
   <a href="https://goreportcard.com/report/github.com/pashkov256/terma"><img src="https://goreportcard.com/badge/github.com/pashkov256/terma"/></a>
   <a href="https://img.shields.io/github/commit-activity/m/pashkov256/terma"><img src="https://img.shields.io/github/commit-activity/m/pashkov256/terma"/></a>
 </p>
+<a href="https://code2tutorial.com/tutorial/your-tutorial-link"><b>Terma</b></a> is a handy terminal weather app that combines a modern TUI. Instantly check the weather, view multi-day forecasts, save your favorite locations, and customize the interface — all from your terminal.
+<br/>
 
+
+<br/>
+<p align="center">
+    <em>Weather in your terminal: interactive, beautiful, and fast. Multi-day forecast, saved locations, and more!</em>
+</p>
 
 ## Features
 
